@@ -58,10 +58,10 @@ Software built on SophiaDOS:
 
 | Application | Description |
 |-------------|-------------|
-| [**🩸 Scarcity**](https://scarbucks) | Digital cash with demurrage. Gossip-based double-spend prevention. |
-| [**🌑 Clout**](https://cloutsocial.net/about) | Censorship-resistant social network. Web of Trust filtering. |
-| [**🗳️ Prestige**](https://prestige.vote) | Anonymous verifiable voting. Secret ballot, public proof. |
-| [**🤝 Rendezvous**](https://rendezvous.icu) | Private mutual matching. Diffie-Hellman reveals only mutual selections. |
+| 🩸 [**Scarcity**](https://scarbucks) | Digital cash with demurrage. Gossip-based double-spend prevention. |
+| 🌑 [**Clout**](https://cloutsocial.net/about) | Censorship-resistant social network. Web of Trust filtering. |
+| 🗳️ [**Prestige**](https://prestige.vote) | Anonymous verifiable voting. Secret ballot, public proof. |
+| 🤝 [**Rendezvous**](https://rendezvous.icu) | Private mutual matching. Diffie-Hellman reveals only mutual selections. |
 
 ## Design Principles
 
