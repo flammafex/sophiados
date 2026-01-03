@@ -36,6 +36,7 @@ SophiaDOS answers these questions without servers.
 Distributed state synchronization using CRDTs. No consensus required, no leader election, no servers. State converges eventually across all peers.
 
 [hypertoken.ai](https://hypertoken.ai)
+
 [github.com/flammafex/hypertoken](https://github.com/flammafex/hypertoken)
 
 ### 🕊️ Freebird — Authorization
@@ -43,6 +44,7 @@ Distributed state synchronization using CRDTs. No consensus required, no leader 
 Anonymous authorization using Verifiable Oblivious PRFs (VOPRF). Prove you're allowed without revealing who you are. No identity provider, no tracking, no linkability.
 
 [freebird.bot](https://freebird.bot)
+
 [github.com/flammafex/freebird](https://github.com/flammafex/freebird)
 
 ### 🙌 Witness — Time
@@ -50,6 +52,7 @@ Anonymous authorization using Verifiable Oblivious PRFs (VOPRF). Prove you're al
 Threshold-signed timestamping with Ed25519/BLS. Prove something existed at a specific time without trusting any single authority. Optional blockchain anchoring for public verifiability.
 
 [witnesses.now](https://witnesses.now)
+
 [github.com/flammafex/witness](https://github.com/flammafex/witness)
 
 ## Applications
