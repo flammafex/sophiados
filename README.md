@@ -31,22 +31,25 @@ SophiaDOS answers these questions without servers.
 └─────────────────────────────────────────────────────┘
 ```
 
-### Hypertoken — State
+### 🧩 Hypertoken — State
 
 Distributed state synchronization using CRDTs. No consensus required, no leader election, no servers. State converges eventually across all peers.
 
+[hypertoken.ai](https://hypertoken.ai)
 [github.com/flammafex/hypertoken](https://github.com/flammafex/hypertoken)
 
-### Freebird — Authorization
+### 🕊️ Freebird — Authorization
 
 Anonymous authorization using Verifiable Oblivious PRFs (VOPRF). Prove you're allowed without revealing who you are. No identity provider, no tracking, no linkability.
 
+[freebird.bot](https://freebird.bot)
 [github.com/flammafex/freebird](https://github.com/flammafex/freebird)
 
-### Witness — Time
+### 🙌 Witness — Time
 
 Threshold-signed timestamping with Ed25519/BLS. Prove something existed at a specific time without trusting any single authority. Optional blockchain anchoring for public verifiability.
 
+[witnesses.now](https://witnesses.now)
 [github.com/flammafex/witness](https://github.com/flammafex/witness)
 
 ## Applications
@@ -55,10 +58,10 @@ Software built on SophiaDOS:
 
 | Application | Description |
 |-------------|-------------|
-| [**Scarcity**](https://github.com/flammafex/scarcity) | Digital cash with demurrage. Gossip-based double-spend prevention. |
-| [**Clout**](https://github.com/flammafex/clout) | Censorship-resistant social network. Web of Trust filtering. |
-| [**Prestige**](https://github.com/flammafex/prestige) | Anonymous verifiable voting. Secret ballot, public proof. |
-| [**Rendezvous**](https://github.com/flammafex/rendezvous) | Private mutual matching. Diffie-Hellman reveals only mutual selections. |
+| [**🩸 Scarcity**](https://scarbucks) | Digital cash with demurrage. Gossip-based double-spend prevention. |
+| [**🌑 Clout**](https://cloutsocial.net/about) | Censorship-resistant social network. Web of Trust filtering. |
+| [**🗳️ Prestige**](https://prestige.vote) | Anonymous verifiable voting. Secret ballot, public proof. |
+| [**🤝 Rendezvous**](https://rendezvous.icu) | Private mutual matching. Diffie-Hellman reveals only mutual selections. |
 
 ## Design Principles
 
