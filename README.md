@@ -70,12 +70,6 @@ Software built on SophiaDOS:
 
 **Offline-first.** State synchronizes when connectivity exists. Applications work without it.
 
-## Why "Sophia"?
-
-Σοφία — wisdom.
-
-Wisdom isn't stored in one place. It emerges from good judgment distributed across many minds, reconstituted without central authority.
-
 ## Getting Started
 
 See individual repositories for detailed documentation.
