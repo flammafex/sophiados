@@ -1,4 +1,4 @@
-# SophiaDOS
+# 🏵️ SophiaDOS
 
 **Sophia Distributed Operating System**
 
